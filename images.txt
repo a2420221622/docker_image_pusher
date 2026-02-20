@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-dinkydocker/dinky-standalone-server:1.1.0-flink1.17
+dinkydocker/dinky-standalone-server:1.2.5-flink1.19
+
