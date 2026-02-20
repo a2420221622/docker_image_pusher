@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-mysql:5.7.44
+mysql:8.0.45
