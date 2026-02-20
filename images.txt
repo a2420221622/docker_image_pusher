@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-mysql:8.4.8
+dinkydocker/dinky-standalone-server:1.1.0-flink1.17
