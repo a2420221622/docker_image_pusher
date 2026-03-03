@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-agentscope/copaw:v0.0.3
+agentscope/copaw:v0.0.4
