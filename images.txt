@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
-agentscope/copaw:v0.0.7
+stirlingtools/stirling-pdf:2.7.1
