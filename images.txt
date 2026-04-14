@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-agentscope/copaw:v1.0.1
+agentscope/qwenpaw:v1.1.1
